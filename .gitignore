@@ -1,3 +1,14 @@
+main.build/
+main.dist/
+reserve/
+screens/
+ui/
+calc.rar
+cursed.py
+referat.py
+test.py
+ui_test.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
